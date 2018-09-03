@@ -1,5 +1,5 @@
 # Tips
-Useful tips by OTA CTF members
+Useful tips by OTA CTF members. PRs welcome!
 
 ## Assembly
 
@@ -18,7 +18,7 @@ Useful tips by OTA CTF members
   | `Ctrl-Enter`     | Go forward                      |
   | `H`, `Q`, `B`    | View as decimal, hex, or binary |
   | `N`/`U`          | Name/Undefine symbol            |
-  | `D`, `C`, `P`    | Convert to data, code, function  |
+  | `D`, `C`, `P`    | Convert to data, code, function |
 * Learn to create and use structs.
 * IDAPython is very powerful and worth learning.
 * Use FLIRT whenever you see a static binary. You can save a ton of normally wasted time reverse engineering common functions.
