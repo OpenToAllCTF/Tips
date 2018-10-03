@@ -56,6 +56,7 @@ Useful tips by OTA CTF members. PRs welcome!
   |----------|------------------------------------|
   | `Ctrl-E` | Go to end of line                  |
   | `Ctrl-A` | Go to start of line                |
+  | `Ctrl-L` | Clear terminal                     |
   | `Ctrl-U` | Delete everything left of cursor   |
   | `Ctrl-K` | Delete everything right of cursor  |
   | `Ctrl-W` | Delete word left                   |
