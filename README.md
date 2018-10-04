@@ -49,7 +49,19 @@ Useful tips by OTA CTF members. PRs welcome!
 * `ldd` - See which dynamic libraries an executable loads.
 * `nm` - Dump a binary's symbols
 * Learn to use pipes and [redirection](http://wiki.bash-hackers.org/howto/redirection_tutorial)! When you want to script input, this is very handy, and doing it incorrectly can lead to successful payloads being unusable (e.g. spawning a shell whose _stdin_ is not connected to your terminal).
-  * To pipe output to an application, but regain access to _stdin_ after, use a subshell: `(python3 -c "print('AAAApayload')"; cat -) | nc pwn.me.org 5555`
+* To pipe output to an application, but regain access to _stdin_ after, use a subshell:
+```bash
+(python3 -c "print('AAAApayload')"; cat -) | nc pwn.me.org 5555
+```
+*  `cd -` - Go back to your last working directory.
+* `!!` - Repeats your last command. Can also be used as a parameter.
+
+```bash
+cd /root
+bash: cd: /root: Permission denied
+sudo !!
+```
+
 * Readline shortcuts are _super_ handy.
 
   | Key      | Effect                             |
@@ -67,3 +79,5 @@ Useful tips by OTA CTF members. PRs welcome!
   | `Ctrl-N` | Move forward one line in history   |
   | `Ctrl-R` | Search bash history (start typing) |
   | `Ctrl-G` | Cancel history search              |
+  
+  
