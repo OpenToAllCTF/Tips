@@ -79,4 +79,3 @@ sudo !!
   | `Ctrl-N` | Move forward one line in history   |
   | `Ctrl-R` | Search bash history (start typing) |
   | `Ctrl-G` | Cancel history search              |
-  
