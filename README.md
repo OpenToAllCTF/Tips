@@ -79,3 +79,7 @@ sudo !!
   | `Ctrl-N` | Move forward one line in history   |
   | `Ctrl-R` | Search bash history (start typing) |
   | `Ctrl-G` | Cancel history search              |
+
+## Hacking channel/stream/podcast :
+* Gynvael : [youtube](https://www.youtube.com/user/GynvaelEN/featured)
+* Liveoverflow : [youtube](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
