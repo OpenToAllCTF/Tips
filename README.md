@@ -80,4 +80,3 @@ sudo !!
   | `Ctrl-R` | Search bash history (start typing) |
   | `Ctrl-G` | Cancel history search              |
   
-  
