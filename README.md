@@ -81,5 +81,6 @@ sudo !!
   | `Ctrl-G` | Cancel history search              |
 
 ## Hacking channel/stream/podcast :
-* Gynvael : [youtube](https://www.youtube.com/user/GynvaelEN/featured)
-* Liveoverflow : [youtube](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
+* Gynvael : [youtube](https://www.youtube.com/user/GynvaelEN/featured) - A channel about computer, security,ctf, etc... Gynvael is GOD
+* Liveoverflow : [youtube](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) - This guy actually hard working, smart and he explain his idea by image, animation makes thing easy to understand
+* Socratica : [youtube](https://www.youtube.com/user/SocraticaStudios) - It's not about security (directly), but it's good channel about Math, you CANT escape from MATH when you do ANYTHING with COMPUTER. I learn that the hard way, dont be like me.
