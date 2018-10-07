@@ -79,6 +79,13 @@ sudo !!
   | `Ctrl-N` | Move forward one line in history   |
   | `Ctrl-R` | Search bash history (start typing) |
   | `Ctrl-G` | Cancel history search              |
+## Crypto
+
+[Quipquip](https://quipqiup.com/) : Online tool that will help you solve almost all subsituition cipher
+
+[Decode.fr](https://www.dcode.fr/) : It contains ton of old school cipher
+
+[CyberChef](https://gchq.github.io/CyberChef/) : Try magic mode, it's real MAGIC!
 
 ## Hacking channel/stream/podcast :
 * Gynvael : [youtube](https://www.youtube.com/user/GynvaelEN/featured) - A channel about computer, security,ctf, etc... Gynvael is GOD
