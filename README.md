@@ -87,6 +87,8 @@ sudo !!
 
 [CyberChef](https://gchq.github.io/CyberChef/) : Try magic mode, it's real MAGIC!
 
+[kt.gy tools](https://kt.gy/tools.html) : Fast online tool to decode your string 
+
 ## Hacking channel/stream/podcast :
 * Gynvael : [youtube](https://www.youtube.com/user/GynvaelEN/featured) - A channel about computer, security,ctf, etc... Gynvael is GOD
 * Liveoverflow : [youtube](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) - This guy actually hard working, smart and he explain his idea by image, animation makes thing easy to understand
