@@ -112,8 +112,6 @@ sudo !!
 * head (head portion of file)
 * tail (tail portion of file)
 
-
-
 ## Hacking channel/stream/podcast :
 * Gynvael : [youtube](https://www.youtube.com/user/GynvaelEN/featured) - A channel about computer, security,ctf, etc... Gynvael is GOD
 * Liveoverflow : [youtube](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) - This guy actually hard working, smart and he explain his idea by image, animation makes thing easy to understand
