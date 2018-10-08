@@ -92,3 +92,4 @@ sudo !!
 * Liveoverflow : [youtube](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) - This guy actually hard working, smart and he explain his idea by image, animation makes thing easy to understand
 * Socratica : [youtube](https://www.youtube.com/user/SocraticaStudios) - It's not about security (directly), but it's good channel about Math, you CANT escape from MATH when you do ANYTHING with COMPUTER. I learn that the hard way, dont be like me.
 * Ricardo Narvaja : [youtube](https://www.youtube.com/channel/UCDeWwrp2LUWkDSymrmnfKDQ) - If you are old school cracker, you MUST know this guy. Brilliant. He also have IDA tutorial that teach me a lot about IDA, patching, unpacking,...etc. It orginally written in Spanish (i guess so) but is translated to English [drive](https://drive.google.com/drive/u/0/folders/0B13TW0I0f8O2ckd2T0lsbXRoYmc) 
+* SecurityTube : [youtube](https://www.youtube.com/user/TheSecurityTube) - Good educational resources about Security.
