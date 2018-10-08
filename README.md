@@ -89,6 +89,31 @@ sudo !!
 
 [kt.gy tools](https://kt.gy/tools.html) : Fast online tool to decode your string 
 
+## Jail Challenges
+
+### Python Jails
+[Gynvael Python Jail tips](https://gynvael.coldwind.pl/n/python_sandbox_escape)
+
+#### Useful functions
+* eval() / exec() / compile(), execute any python code
+* dir() / type()
+* globals() / locals() / vars(), finding useful variables
+* getattr() / setattr(), useful when you need to call object.banned(). You can do getattr(object, "ban"+"ned") or something along the lines
+
+#### Interesting Behaviour
+* "A""B" == "AB", useful when `+` is blocked
+
+### Bash Jails
+
+#### Reading files
+* Sometimes `cat` is filtered or banned, these are some alternatives
+* fold
+* nl (numbered)
+* head (head portion of file)
+* tail (tail portion of file)
+
+
+
 ## Hacking channel/stream/podcast :
 * Gynvael : [youtube](https://www.youtube.com/user/GynvaelEN/featured) - A channel about computer, security,ctf, etc... Gynvael is GOD
 * Liveoverflow : [youtube](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) - This guy actually hard working, smart and he explain his idea by image, animation makes thing easy to understand
