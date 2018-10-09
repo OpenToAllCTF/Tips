@@ -128,10 +128,11 @@ sudo !!
 * SecurityTube : [youtube](https://www.youtube.com/user/TheSecurityTube) - Good educational resources about Security.
 
 ## Stories
-* Stuxnet : [wired](https://www.wired.com/2011/07/how-digital-detectives-deciphered-stuxnet/) - A story about Stuxnet, the malware that fascinates me
+* Stuxnet : [wired](https://www.wired.com/2011/07/how-digital-detectives-deciphered-stuxnet/) - A story about Stuxnet, the malware that wrecked havoc in Iran's nuclear power plant
 * Mirai : [wired](https://www.wired.com/story/mirai-botnet-minecraft-scam-brought-down-the-internet/) - A story about Mirai, the IOT botnet that brought down the Internet
 * Edward Snowden : [wired](https://www.wired.com/2014/08/edward-snowden/) - The untold story of Edward Snowden
-* SilkRoad [wired](https://www.wired.com/2015/04/silk-road-1/ https://www.wired.com/2015/04/silk-road-2/) - A story about how the rise and fall of Silk Road, an online drug marketplace by Ross Ulbricht(Dread Pirate Roberts)
-* SilkRoad [wired](https://www.wired.com/story/russian-hackers-attack-ukraine/) - A story about how the Russian attacks on critical infrastructure of Ukraine
-* Finfisher hack [pastebin](https://pastebin.com/cRYvK4jb) - A story by the person claiming to be Phineas Fisher who hacker a spyware company, pretty good read in my opinion
-* HackingTeam hack [pastebin](https://pastebin.com/0SNSvyjJ) - A story by the person claiming to be Phineas Fisher who hacker the Italian company HackingTeam and leaked their data, again a very good read
+* SilkRoad [wired](https://www.wired.com/2015/04/silk-road-1/ https://www.wired.com/2015/04/silk-road-2/) - A story about the rise and fall of Silk Road, an online drug marketplace by Ross Ulbricht(Dread Pirate Roberts)
+* SilkRoad [wired](https://www.wired.com/story/russian-hackers-attack-ukraine/) - A story about the Russian attacks on critical infrastructure of Ukraine
+* Finfisher hack [pastebin](https://pastebin.com/cRYvK4jb) - A story by the person claiming to be Phineas Fisher who hacked a spyware company, pretty good read in my opinion
+* HackingTeam hack [pastebin](https://pastebin.com/0SNSvyjJ) - A story by the person claiming to be Phineas Fisher who hacked the Italian company HackingTeam and leaked their data, again a very good read
+* Spanish Police hack [vimeo](https://vimeo.com/167411059) - A video by Phineas Fisher showing how he hacked the Spanish Police because of their human rights violation
