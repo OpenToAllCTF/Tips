@@ -113,8 +113,17 @@ sudo !!
 * tail (tail portion of file)
 
 ## Hacking channel/stream/podcast :
-* Gynvael : [youtube](https://www.youtube.com/user/GynvaelEN/featured) - A channel about computer, security,ctf, etc... Gynvael is GOD
-* Liveoverflow : [youtube](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) - This guy actually hard working, smart and he explain his idea by image, animation makes thing easy to understand
-* Socratica : [youtube](https://www.youtube.com/user/SocraticaStudios) - It's not about security (directly), but it's good channel about Math, you CANT escape from MATH when you do ANYTHING with COMPUTER. I learn that the hard way, dont be like me.
-* Ricardo Narvaja : [youtube](https://www.youtube.com/channel/UCDeWwrp2LUWkDSymrmnfKDQ) - If you are old school cracker, you MUST know this guy. Brilliant. He also have IDA tutorial that teach me a lot about IDA, patching, unpacking,...etc. It orginally written in Spanish (i guess so) but is translated to English [drive](https://drive.google.com/drive/u/0/folders/0B13TW0I0f8O2ckd2T0lsbXRoYmc) 
+* Gynvael : [youtube](https://www.youtube.com/user/GynvaelEN/featured) - A channel about computer, security, ctf, etc... Gynvael is GOD
+* LiveOverflow : [youtube](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) - This guy is actually hard working, smart and he explains his idea using animations making things easy to understand
+* Socratica : [youtube](https://www.youtube.com/user/SocraticaStudios) - It's not about security (directly), but it's a good channel for Math, you CAN'T escape MATH if you are doing ANYTHING with COMPUTERS. I learnt that the hard way, don't be like me.
+* Ricardo Narvaja : [youtube](https://www.youtube.com/channel/UCDeWwrp2LUWkDSymrmnfKDQ) - If you are an old school cracker, you WOULD know this guy. HE is Brilliant. He also has IDA tutorials that taught me a lot about IDA, patching, unpacking...etc. It is orginally in Spanish (i guess so) but the English translated version is available here [drive](https://drive.google.com/drive/u/0/folders/0B13TW0I0f8O2ckd2T0lsbXRoYmc) 
 * SecurityTube : [youtube](https://www.youtube.com/user/TheSecurityTube) - Good educational resources about Security.
+
+## Stories
+* Stuxnet : [wired](https://www.wired.com/2011/07/how-digital-detectives-deciphered-stuxnet/) - A story about Stuxnet, the malware that fascinates me
+* Mirai : [wired](https://www.wired.com/story/mirai-botnet-minecraft-scam-brought-down-the-internet/) - A story about Mirai, the IOT botnet that brought down the Internet
+* Edward Snowden : [wired](https://www.wired.com/2014/08/edward-snowden/) - The untold story of Edward Snowden
+* SilkRoad [wired](https://www.wired.com/2015/04/silk-road-1/ https://www.wired.com/2015/04/silk-road-2/) - A story about how the rise and fall of Silk Road, an online drug marketplace by Ross Ulbricht(Dread Pirate Roberts)
+* SilkRoad [wired](https://www.wired.com/story/russian-hackers-attack-ukraine/) - A story about how the Russian attacks on critical infrastructure of Ukraine
+* Finfisher hack [pastebin](https://pastebin.com/cRYvK4jb) - A story by the person claiming to be Phineas Fisher who hacker a spyware company, pretty good read in my opinion
+* HackingTeam hack [pastebin](https://pastebin.com/0SNSvyjJ) - A story by the person claiming to be Phineas Fisher who hacker the Italian company HackingTeam and leaked their data, again a very good read
