@@ -9,6 +9,14 @@ Useful tips by OTA CTF members. PRs welcome!
 * Quickly disassemble raw bytes: [ODA](https://www.onlinedisassembler.com/odaweb/)
 * Quickly assemble x86: [Defuse assembler](https://defuse.ca/online-x86-assembler.htm)
 
+## Binary Exploitation Technique
+
+* [Basic Return Oriented Programming](http://codearcana.com/posts/2013/05/28/introduction-to-return-oriented-programming-rop.html)
+* [Blind Return Oriented Programming](http://www.scs.stanford.edu/brop/)
+* [Signature Return Oriented Programming](https://www.cs.vu.nl/~herbertb/papers/srop_sp14.pdf)
+* [Heap Overflow](https://github.com/shellphish/how2heap)
+* [Pwntools Beginner Tutorial](http://www.auxy.xyz/tutorial/2018/09/01/Pwntools-Step-By-Step.html)
+
 ## IDA
 * Common hotkeys:
 
