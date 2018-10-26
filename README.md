@@ -11,11 +11,13 @@ Useful tips by OTA CTF members. PRs welcome!
 
 ## Binary Exploitation Technique
 
+* [Modern Binary Exploitation](https://github.com/RPISEC/MBE)
 * [Basic Return Oriented Programming](http://codearcana.com/posts/2013/05/28/introduction-to-return-oriented-programming-rop.html)
 * [Blind Return Oriented Programming](http://www.scs.stanford.edu/brop/)
 * [Signature Return Oriented Programming](https://www.cs.vu.nl/~herbertb/papers/srop_sp14.pdf)
 * [Heap Overflow](https://github.com/shellphish/how2heap)
 * [Pwntools Beginner Tutorial](http://www.auxy.xyz/tutorial/2018/09/01/Pwntools-Step-By-Step.html)
+* [File Stream Oriented Programming](https://www.slideshare.net/AngelBoy1/play-with-file-structure-yet-another-binary-exploit-technique)
 
 ## IDA
 * Common hotkeys:
@@ -27,6 +29,7 @@ Useful tips by OTA CTF members. PRs welcome!
   | `H`, `Q`, `B`    | View as decimal, hex, or binary |
   | `N`/`U`          | Name/Undefine symbol            |
   | `D`, `C`, `P`    | Convert to data, code, function |
+  | `Ctrl-w`         | Save                            |
 * Learn to create and use structs.
 * IDAPython is very powerful and worth learning.
 * Use FLIRT whenever you see a static binary. You can save a ton of normally wasted time reverse engineering common functions.
