@@ -133,6 +133,44 @@ sudo !!
 * head (head portion of file)
 * tail (tail portion of file)
 
+## _hooks
+In libc, there are `*_hook` function pointers that are called that are writeable:
+
+```bash
+$ less ./db/local-acd0f91e833f06b2a822be84579f70edf4e80050.symbols | grep _hook
+__free_hook 001b18b0
+argp_program_version_hook 001b3794
+_dl_open_hook 001b35d4
+__malloc_hook 001b0768
+__realloc_hook 001b0764
+__malloc_initialize_hook 001b18b4
+__after_morecore_hook 001b18ac
+__memalign_hook 001b0760
+```
+By default, these pointers are NULL. These function pointers are only called IF they are not NULL:
+
+```C
+void
+__libc_free(void* mem)
+{
+  mstate ar_ptr;
+  mchunkptr p;                          /* chunk corresponding to mem */
+
+  void (*hook) (void *, const void *)
+    = force_reg (__free_hook);
+  if (__builtin_expect (hook != NULL, 0)) {
+    (*hook)(mem, RETURN_ADDRESS (0));
+    return;
+  }
+```
+
+If you can overwrite one of these pointers, you can control RIP the next time the associated libc function is called!
+Useful if FULL RELRO is enabled/the GOT is read-only and we have a write-what-where!
+
+### Protips
+* `printf()` actually calls `malloc()` if printing anything out with a width > 65535-32!
+* any memory corruption error you trigger will call `alloca()`/`__malloc_hook`
+
 ## Null Termination
 #### Do NOT read past first null byte
 * strcpy()
