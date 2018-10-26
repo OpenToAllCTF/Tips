@@ -33,6 +33,8 @@ Useful tips by OTA CTF members. PRs welcome!
 * Learn to create and use structs.
 * IDAPython is very powerful and worth learning.
 * Use FLIRT whenever you see a static binary. You can save a ton of normally wasted time reverse engineering common functions.
+* Code coverage and tracing analysis is a useful technique to assist with reverse engineering. IDA has built in coverage and trace highlighting capabilities features. [Lighthouse](https://github.com/gaasedelen/lighthouse) is also a great plugin for coverage analysis.
+* [Keypatch](http://www.keystone-engine.org/keypatch) is a useful plugin that offers extra features compared to the built-in assembler
 
 ## Debugging
 
