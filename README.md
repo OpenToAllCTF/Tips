@@ -36,6 +36,7 @@ Useful tips by OTA CTF members. PRs welcome!
 ### GDB
 
 * Don't suffer through vanilla GDB. Use something like [GEF](https://github.com/hugsy/gef), [PEDA](https://github.com/longld/peda), or [Voltron](https://github.com/snare/voltron).
+* You can also combine [PEDA](https://github.com/longld/peda) with [Pwngdb](https://github.com/scwuaptx/Pwngdb), which is a powerful add-on that supports advanced heap exploitation and FILE stream oriented exploitation features.
 * Learn these!
   * `command <bp#>` - Run commands when a bp is hit.
   * `ignore <bp#> <count>` - Ignore the next _count_ occurrences of _bp_.
