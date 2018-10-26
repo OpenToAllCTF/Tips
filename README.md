@@ -124,6 +124,21 @@ sudo !!
 * head (head portion of file)
 * tail (tail portion of file)
 
+## Null Termination
+#### Do NOT read past first null byte
+* strcpy()
+* strncpy()
+
+#### Do read past first null byte
+* read()
+* gets()
+* fgets()
+* memcpy()
+* scanf()
+
+#### Does copy the terminating nullbyte from src to dst
+* strcpy()
+
 ## Hacking channel/stream/podcast :
 * Gynvael : [youtube](https://www.youtube.com/user/GynvaelEN/featured) - A channel about computer, security, ctf, etc... Gynvael is GOD
 * LiveOverflow : [youtube](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) - This guy is actually hard working, smart and he explains his idea using animations making things easy to understand
