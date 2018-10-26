@@ -57,9 +57,9 @@ Useful tips by OTA CTF members. PRs welcome!
   * `set follow-exec-mode <same|new>` - Tell gdb to either trace the original target or 'move' to the new process on `exec*`.
 
 ### Redressing a Stripped Libc
-* Often times when we do pwnables, we are given the pwnable along with a stripped version of the libc that the pwnable is using on the remote server. If we want an easier time debugging with the provided libc preloaded, here are some steps we can take to add symbols back to the stripped libc. (dependencies: [eu-unstrip](https://helpmanual.io/help/eu-unstrip/) 
-  1. run `strings <libc-name> | grep glibc` to determine the libc version
-  1. download the associated debug symbol file (eg. [https://launchpad.net/ubuntu/xenial/amd64/libc6-dbg/2.23-0ubuntu5])
+* Often times when we do pwnables, we are given the pwnable along with a stripped version of the libc that the pwnable is using on the remote server. If we want an easier time debugging with the provided libc preloaded, here are some steps we can take to add symbols back to the stripped libc. (dependencies: [eu-unstrip](https://helpmanual.io/help/eu-unstrip/)) 
+  1. run `strings <stripped-libc> | grep glibc` to determine the libc version
+  1. download the associated debug symbol file (eg.[https://launchpad.net/ubuntu/xenial/amd64/libc6-dbg/2.23-0ubuntu5](https://launchpad.net/ubuntu/xenial/amd64/libc6-dbg/2.23-0ubuntu5))
   1. merge stripped libc file with debug symbol  file using `eu-unstrip` like so: `eu-unstrip <stripped-libc> <symbol-file>`
   1. now `<symbol-file>` will be your newly redressed libc w/symbols!
 
