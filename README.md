@@ -15,6 +15,7 @@ Useful tips by OTA CTF members. PRs welcome!
 * [Basic Return Oriented Programming](http://codearcana.com/posts/2013/05/28/introduction-to-return-oriented-programming-rop.html)
 * [Blind Return Oriented Programming](http://www.scs.stanford.edu/brop/)
 * [Signature Return Oriented Programming](https://www.cs.vu.nl/~herbertb/papers/srop_sp14.pdf)
+* [ROP Practice Problems](https://ropemporium.com/)
 * [Heap Overflow](https://github.com/shellphish/how2heap)
 * [Pwntools Beginner Tutorial](http://www.auxy.xyz/tutorial/2018/09/01/Pwntools-Step-By-Step.html)
 * [File Stream Oriented Programming](https://www.slideshare.net/AngelBoy1/play-with-file-structure-yet-another-binary-exploit-technique)
@@ -192,6 +193,7 @@ Useful if FULL RELRO is enabled/the GOT is read-only and we have a write-what-wh
 * Socratica : [youtube](https://www.youtube.com/user/SocraticaStudios) - It's not about security (directly), but it's a good channel for Math, you CAN'T escape MATH if you are doing ANYTHING with COMPUTERS. I learnt that the hard way, don't be like me.
 * Ricardo Narvaja : [youtube](https://www.youtube.com/channel/UCDeWwrp2LUWkDSymrmnfKDQ) - If you are an old school cracker, you WOULD know this guy. HE is Brilliant. He also has IDA tutorials that taught me a lot about IDA, patching, unpacking...etc. It is orginally in Spanish (i guess so) but the English translated version is available here [drive](https://drive.google.com/drive/u/0/folders/0B13TW0I0f8O2ckd2T0lsbXRoYmc) 
 * SecurityTube : [youtube](https://www.youtube.com/user/TheSecurityTube) - Good educational resources about Security.
+* Murmus CTF: [youtube](https://www.youtube.com/channel/UCUB9vOGEUpw7IKJRoR4PK-A) - CTF player who livestreams walkthroughs from various ctfs.
 
 ## Stories
 * Stuxnet : [wired](https://www.wired.com/2011/07/how-digital-detectives-deciphered-stuxnet/) - A story about Stuxnet, the malware that wrecked havoc in Iran's nuclear power plant
