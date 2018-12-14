@@ -187,14 +187,14 @@ Useful if FULL RELRO is enabled/the GOT is read-only and we have a write-what-wh
 #### Does copy the terminating nullbyte from src to dst
 * strcpy()
 
-## Hacking channel/stream/podcast :
+## Hacking channel/stream/podcast/blog :
 * Gynvael : [youtube](https://www.youtube.com/user/GynvaelEN/featured) - A channel about computer, security, ctf, etc... Gynvael is GOD
 * LiveOverflow : [youtube](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) - This guy is actually hard working, smart and he explains his idea using animations making things easy to understand
 * Socratica : [youtube](https://www.youtube.com/user/SocraticaStudios) - It's not about security (directly), but it's a good channel for Math, you CAN'T escape MATH if you are doing ANYTHING with COMPUTERS. I learnt that the hard way, don't be like me.
 * Ricardo Narvaja : [youtube](https://www.youtube.com/channel/UCDeWwrp2LUWkDSymrmnfKDQ) - If you are an old school cracker, you WOULD know this guy. HE is Brilliant. He also has IDA tutorials that taught me a lot about IDA, patching, unpacking...etc. It is orginally in Spanish (i guess so) but the English translated version is available here [drive](https://drive.google.com/drive/u/0/folders/0B13TW0I0f8O2ckd2T0lsbXRoYmc) 
 * SecurityTube : [youtube](https://www.youtube.com/user/TheSecurityTube) - Good educational resources about Security.
 * Murmus CTF: [youtube](https://www.youtube.com/channel/UCUB9vOGEUpw7IKJRoR4PK-A) - CTF player who livestreams walkthroughs from various ctfs.
-
+* 360 Core Security : [link](http://blogs.360.cn/post/) a blog all about security research, 0day... of 360 Core Security Team. Very interesting and advanced.
 ## Stories
 * Stuxnet : [wired](https://www.wired.com/2011/07/how-digital-detectives-deciphered-stuxnet/) - A story about Stuxnet, the malware that wrecked havoc in Iran's nuclear power plant
 * Mirai : [wired](https://www.wired.com/story/mirai-botnet-minecraft-scam-brought-down-the-internet/) - A story about Mirai, the IOT botnet that brought down the Internet
