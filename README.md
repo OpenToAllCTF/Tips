@@ -8,6 +8,7 @@ Useful tips by OTA CTF members. PRs welcome!
 * Quickly see what assembly different compilers generate: [Compiler Explorer](https://godbolt.org/)
 * Quickly disassemble raw bytes: [ODA](https://www.onlinedisassembler.com/odaweb/)
 * Quickly assemble x86: [Defuse assembler](https://defuse.ca/online-x86-assembler.htm)
+* Azeria's guide to ARM assembly: [ARM Assembly Basics](https://azeria-labs.com/writing-arm-assembly-part-1/)
 
 ## Binary Exploitation Technique
 
